@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shared</string>
+    <string name="name">name</string>
+    <string name="enter_your_name">enter_your_name</string>
+    <string name="e_mail">e_mail</string>
+    <string name="enter_your_e_mail">enter_your_e_mail</string>
+    <string name="enter_password">enter_password</string>
+    <string name="password">password</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="enter_city">enter_city</string>
+    <string name="signup_form">signup_form</string>
+    <string name="state">state</string>
+    <string name="city">city</string>
+</resources>
